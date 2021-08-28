@@ -1,0 +1,13 @@
+{
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "obsidian-citation-plugin:insert-markdown-citation": [],
+  "obsidian-citation-plugin:insert-literature-note-content": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ]
+}

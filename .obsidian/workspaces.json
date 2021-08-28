@@ -1,0 +1,174 @@
+{
+  "workspaces": {
+    "日常": {
+      "main": {
+        "id": "bb9833b50a90aaba",
+        "type": "split",
+        "children": [
+          {
+            "id": "2fcb50dfedc1b9ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-daily/08-15-21.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "41a62d697da70f5f",
+        "type": "split",
+        "children": [
+          {
+            "id": "7cf307377df88fd8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a481ec506fa0d528",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "90b1a0ec27d52155",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "path:科研",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "f27d19cda605cdb1",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ac960e865ed85f26",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 181
+      },
+      "right": {
+        "id": "ef305dd03673197b",
+        "type": "split",
+        "children": [
+          {
+            "id": "030cd164f4bf48dc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e44c59f0b3241b2",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "304c69055e348078",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "02 看板/目前内容.md"
+                  }
+                }
+              },
+              {
+                "id": "dffe1b803c080cfe",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "91cfd291798c170a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "e7e035f258da7c48",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "472ec70de202644c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "4-daily/08-15-21.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "d3e9bac2acb0d374",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "4-daily/08-15-21.md"
+                  }
+                }
+              },
+              {
+                "id": "729a9683e10165ea",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "02 看板/想法.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 249.60000610351562
+      },
+      "active": "2fcb50dfedc1b9ae"
+    }
+  },
+  "active": "日常"
+}

@@ -1,0 +1,6 @@
+{
+  "format": "MM-DD-YY",
+  "autorun": true,
+  "folder": "4-daily",
+  "template": "0-模板/daily"
+}

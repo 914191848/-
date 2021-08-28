@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "weekStart": "monday",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "[Week]-w-YY",
+  "weeklyNoteTemplate": "模板/Weekly",
+  "weeklyNoteFolder": "daily",
+  "localeOverride": "system-default"
+}

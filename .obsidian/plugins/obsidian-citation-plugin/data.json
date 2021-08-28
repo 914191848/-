@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "D:\\本地笔记\\Obsidian-notion\\7-文献笔记\\",
+  "literatureNoteContentTemplate": "{{citekey}}\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n[zotero]({{zoteroSelectURI}})\n\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "D:\\本地笔记\\Obsidian-notion\\7-文献笔记\\article_info\\My_lib.bib"
+}

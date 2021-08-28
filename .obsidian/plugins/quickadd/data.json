@@ -1,0 +1,29 @@
+{
+  "choices": [
+    {
+      "id": "449cbe84-8b22-416b-a6fc-ebc9bf411584",
+      "name": "quickadd",
+      "type": "Template",
+      "command": false,
+      "templatePath": "0-模板/quickadd.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical"
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFile": false
+    }
+  ],
+  "macros": []
+}

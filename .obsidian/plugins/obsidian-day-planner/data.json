@@ -1,0 +1,44 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": false,
+  "notesToDates": [
+    {
+      "notePath": "daily/08-06-21.md",
+      "date": "Fri Aug 06 2021"
+    },
+    {
+      "notePath": "4-daily/08-07-21.md",
+      "date": "Sat Aug 07 2021"
+    },
+    {
+      "notePath": "4-daily/08-07-21.md",
+      "date": "Sun Aug 08 2021"
+    },
+    {
+      "notePath": "4-daily/08-14-21.md",
+      "date": "Sat Aug 14 2021"
+    },
+    {
+      "notePath": "4-daily/08-15-21.md",
+      "date": "Sun Aug 15 2021"
+    },
+    {
+      "notePath": "6-工作记录/8-14 传热计算 CFX设置及Waike网格生成 备份.md",
+      "date": "Tue Aug 17 2021"
+    },
+    {
+      "notePath": "0-模板/daily.md",
+      "date": "Thu Aug 19 2021"
+    },
+    {
+      "notePath": "4-daily/08-15-21.md",
+      "date": "Tue Aug 24 2021"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 4
+}

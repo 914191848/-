@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "bb9833b50a90aaba",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb0568b41e3c2219",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "房子-layout/37298548.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41a62d697da70f5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cf307377df88fd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a481ec506fa0d528",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "90b1a0ec27d52155",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#总价/255-270 tag:#区域/朝阳",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f27d19cda605cdb1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3cff3d76bcf3e59b",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b06d6fd31d8458b8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "71d8e789efb72648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372
+  },
+  "right": {
+    "id": "ef305dd03673197b",
+    "type": "split",
+    "children": [
+      {
+        "id": "030cd164f4bf48dc",
+        "type": "tabs",
+        "dimension": 24.390243902439025,
+        "children": [
+          {
+            "id": "91cfd291798c170a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1abf10fbbbe16d62",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e7e035f258da7c48",
+        "type": "tabs",
+        "dimension": 75.60975609756098,
+        "children": [
+          {
+            "id": "472ec70de202644c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "房子-layout/37298548.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d3e9bac2acb0d374",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "房子-layout/37298548.md"
+              }
+            }
+          },
+          {
+            "id": "9a66b9ac7a1dca90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 383.6000671386719
+  },
+  "active": "cb0568b41e3c2219",
+  "lastOpenFiles": [
+    "房子-layout/37298548.md",
+    "房子-layout/39166658.md",
+    "未命名 1.md",
+    "房子-layout/40469330.md",
+    "未命名.md",
+    "房子-layout/40057624.md",
+    "未命名 2.md",
+    "房子-layout/40919871.md",
+    "房子-layout/41518398.md",
+    "房子-nolayout/500472922.md"
+  ]
+}

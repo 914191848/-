@@ -1,0 +1,16 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "/",
+  "attachmentFolderPath": "./attachment",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
